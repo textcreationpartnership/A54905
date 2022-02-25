@@ -1,0 +1,398 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pindarick-poem upon His Most Sacred Majestie's late gracious indulgence, in granting a toleration, and liberty of conscience in matters of religion</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54905</idno>
+            <idno type="STC">Wing P2260</idno>
+            <idno type="STC">ESTC R8550</idno>
+            <idno type="EEBO-CITATION">12993643</idno>
+            <idno type="OCLC">ocm 12993643</idno>
+            <idno type="VID">96367</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54905)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96367)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 396:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pindarick-poem upon His Most Sacred Majestie's late gracious indulgence, in granting a toleration, and liberty of conscience in matters of religion</title>
+               </titleStmt>
+               <extent>[7], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Sovereign (1685-1688 : James II). --  His Majesties gracious declaration to all his loving subjects for liberty of conscience.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96367:1"/>
+            <p>
+               <add>Pindarick Poem on the Indulgence of Liberty of Conscience. 1687</add>
+            </p>
+            <pb facs="tcp:96367:1" rendition="simple:additions"/>
+            <pb facs="tcp:96367:2" rendition="simple:additions"/>
+            <p>A Pindarick-Poem UPON HIS <hi>Moſt Sacred Majeſtie's</hi> LATE GRACIOUS INDULGENCE, In Granting a Toleration, and Liberty of Conſcience in Matters of RELIGION.</p>
+            <q xml:lang="lat">
+               <bibl>Virgil,</bibl> 
+               <l>O Meliboee; Deus nobis haec otia fecit.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. S.</hi> in the Year 1687.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:96367:3"/>
+            <pb facs="tcp:96367:3"/>
+            <head>The Preface.</head>
+            <p>THE Occaſion of this <hi>Poem</hi> has been a Subject ſufficiently bandied about by all parties; not an uſeleſs Pen in Town but has conſumed both Ink and Paper in the Defence or Oppoſition of it: which makes it not at all ſtrange, that a Poet ſhould be concer<g ref="char:EOLhyphen"/>ned in a matter ſo vulgarly canvas'd, ſince Cuſtome looks upon ſuch to be (as really they are) the greateſt Buſibodies of the Nation. And ſince it is a Cauſe that has deſerved all Men's aſſiſtance in its Defence; I know not why it may not merit a Poet's Talent in its Praiſe. For that which will admit an Argument to Maintain it, may juſtly allow a Commendation to Illuſtrate it. And if for the ſupport of a bad Cauſe they are allowed to bring Argu<g ref="char:EOLhyphen"/>ments, there is little reaſon why a good One ſhould be barr'd of its glory: For what has gain'd the advantage in Proſe, may juſtly claim its deſerts in <g ref="char:V">Ʋ</g>erſe. If ren<g ref="char:EOLhyphen"/>ſon and equity will prevail, there is the leſs to ſay; If not, 'tis to no purpoſe to ſpeak. Its excuſe is already
+<pb facs="tcp:96367:4"/>pleaded, and we commit its Defence to thoſe who have written of this Subject.</p>
+            <p>For the <hi>Poem</hi> it ſelf, as there is no extraordinary matter in it, ſo nothing more than ordinary ought to be expected in its behalf. The <hi>Stile</hi> (me ſuppoſe) is grave, ſuitable to the Deſign; and if there be extrava<g ref="char:EOLhyphen"/>gancy in it, let it go for an excurſion of wit, if you pleaſe, if 'twill not bear the force of a Subſidiary Argu<g ref="char:EOLhyphen"/>ment. The inequality of the verſe can be no prejudice with thoſe who underſtand <hi>Poetry;</hi> and as for the Ig<g ref="char:EOLhyphen"/>norant, the Author thinks he has no need to give Bail, that every Paſſage ſhall anſwer their ſtrict Rules, and comply with their Humour. If any thing may ſeem to over-laſh, he is willing to believe he may juſtifie himſelf by the liberty of the beſt <hi>Authors</hi> who have wrote in this kind, and till the Exceptions are made, he ſhall forbear any further Vindication.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:96367:4"/>
+            <head>A Pindarick Poem Upon his Moſt Sacred, <hi>&amp;c.</hi>
+            </head>
+            <lg n="1">
+               <head>I.</head>
+               <l>WHAT <hi>Saint,</hi> what <hi>Angel</hi> wilt thou Sing,</l>
+               <l>What <hi>Mortal God,</hi> my <hi>Muſe,</hi> to equal Glories bring?</l>
+               <l>Swift with the <hi>wings</hi> of nimble <hi>Fancy</hi> fly</l>
+               <l>Thorow the wide unbounded Sky,</l>
+               <l>And meet the nobleſt Monarch on his way,</l>
+               <l>That th' <hi>Engliſh</hi> Scepter e're did ſway:</l>
+               <l>He's now returning from the conquer'd <hi>Weſt,</hi>
+               </l>
+               <l>From trave'ling Countries to reform the State.</l>
+               <l>Toyls and Cares have long oppreſt</l>
+               <l>Our watchful Prince's anxious Breaſt.</l>
+               <l>Strange are the means propos'd by Fate</l>
+               <l>To make a Nation in its Monarch great:</l>
+               <l>The People ſlumber, and in peaceful eaſe,</l>
+               <l>Flowing with Plenty and Delight,</l>
+               <l>Plenty by Day, and Charms by Night,</l>
+               <l>With calmeſt thoughts their quiet Souls do pleaſe:</l>
+               <l>Whil'ſt our Great Monarch (to whoſe care</l>
+               <l>Kingdoms and Laws committed are)</l>
+               <l>With watchful eyes and thoughts profound,</l>
+               <l>Next under <hi>Providence,</hi> does guard our Land around.</l>
+               <l>And yet with trembling horrour we have ſeen</l>
+               <l>Some with Ambition fir'd, or mov'd with ſpleen,</l>
+               <l>
+                  <pb n="2" facs="tcp:96367:5"/>
+Whil'ſt our <hi>Heſperian</hi> Dragon he,</l>
+               <l>With unclos'd eyes guarded our Lives and Liberty,</l>
+               <l>Like the bold <hi>Argonants</hi> of <hi>Greece,</hi>
+               </l>
+               <l>Attempt to ſlay the Dragon, and enjoy the Fleece</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Whatever be the real cauſe of Warrs,</l>
+               <l>Of our Rebellions and inteſtine Jarrs,</l>
+               <l>Religion ſtill is the pretence:</l>
+               <l>This ſpecious Name</l>
+               <l>Kindles and blows the threatning flame,</l>
+               <l>Which up and down [like <hi>Fire-Balls</hi>] hurl'd,</l>
+               <l>Breaks out in diſtant places, and inflames the World.</l>
+               <l>
+                  <hi>Popery's</hi> marching in; Arm, Arm:</l>
+               <l>'Tis overcaſt, there needs muſt be a Storm:</l>
+               <l>Let us not tamely die,</l>
+               <l>Nor yet ignobly fly.</l>
+               <l>Theſe ſounds do all the long-ear'd Mobile alarm,</l>
+               <l>This voice the active Rebels ſtrait does charm.</l>
+               <l>Hence flow diſordered Riots, hence</l>
+               <l>Of <hi>Chriſtian</hi> Blood the vaſt expence<g ref="char:punc">▪</g>
+               </l>
+               <l>Unhappy Nation, that in thee</l>
+               <l>Religion ſhou'd prove the deadly cauſe</l>
+               <l>Of raiſing Factions, violating Laws</l>
+               <l>With popular and loud applauſe:</l>
+               <l>Alas that <hi>Chriſtianity</hi>
+               </l>
+               <l>Should ſeldom in our Iſle agree</l>
+               <l>To dwell with <hi>Chriſtian</hi> Love and Charity;</l>
+               <l>With our own Arms the Prince of Hell does ſlay,</l>
+               <l>
+                  <pb n="3" facs="tcp:96367:5"/>
+And with a conquering hand</l>
+               <l>Captivates our wretched Land:</l>
+               <l>And when he's pleas'd with mortal Lives to play,</l>
+               <l>And with a word great Hoſts by mutual wounds deſtroy,</l>
+               <l>He ſends a Ghoſtly Fury out</l>
+               <l>To ſcatter Fears and Jealouſies about;</l>
+               <l>Who with her ſnaky Locks, and Torch in hand,</l>
+               <l>Runs howling through our Land:</l>
+               <l>Now your Religion does on tip-toe ſtand;</l>
+               <l>Help, my brave <hi>Engliſh</hi> Souls, aſſiſt the falling Maid.</l>
+               <l>The word's no ſooner ſaid,</l>
+               <l>But the mad Nation with a <hi>Feaver</hi> burns,</l>
+               <l>And all things into noiſe and raging Tempeſt turns.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>But now no more ſhall that ill-boding ſound,</l>
+               <l>Which us'd to ſcatter Jealouſies around,</l>
+               <l>Our happy Iſle confound.</l>
+               <l>No more ſhall the pretext of partial Laws,</l>
+               <l>Fram'd to uphold a ſingle Cauſe,</l>
+               <l>Engroſs the publick Priviledge and Right,</l>
+               <l>In which all have an equal ſhare,</l>
+               <l>And all alike concerned are</l>
+               <l>To make their Native and Inherent Title clear.</l>
+               <l>The interpoſing hedges now are waſte;</l>
+               <l>Now all the luſcious Honey taſte:</l>
+               <l>Lo! their enlivened Spirits riſe,</l>
+               <l>And dart new vigour thro' their eyes:</l>
+               <l>The free and open day we ſee at laſt,</l>
+               <l>And the Whole Iſle's become but one incloſed Paradiſe.</l>
+               <l>
+                  <pb n="4" facs="tcp:96367:6"/>
+No more thoſe direful Sounds we hear,</l>
+               <l>The vaniſh'd Fantoms now no more appear;</l>
+               <l>No more we're frightned with their Spells,</l>
+               <l>Their naſty horns are ſhrunk into their ſhells.</l>
+               <l>No more they dare appear in ſight:</l>
+               <l>To their deteſted Beds</l>
+               <l>They ſilently withdraw their heads,</l>
+               <l>Like Birds obſcene, they fly before the conquering light.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>In all the Realms that conſtituted be</l>
+               <l>By the Eternal Word, Divine Decree,</l>
+               <l>None is more Great, more Abſolute and Free</l>
+               <l>Than the old <hi>Engliſh</hi> Monarchy.</l>
+               <l>Tyrants may uſe more Power, but none by <hi>Heaven</hi>
+               </l>
+               <l>More large and unconfin'd to any Prince is given.</l>
+               <l>To Laws he does ſubmit; but Laws in vain may ſtrive</l>
+               <l>And grapple with his great Prerogative,</l>
+               <l>If he the force of's Royal Power would ſhow,</l>
+               <l>And like <hi>Apollo,</hi> draw his ſilver Bow,</l>
+               <l>Which never, never will he draw,</l>
+               <l>For he has ſpake the word, a word that's firmer than a Law.</l>
+               <l>Great is a <hi>Britiſh</hi> Prince, and <hi>James</hi> as great</l>
+               <l>(Tho' we the Chronicles ſhould rowl)</l>
+               <l>To find a Monarch of a braver Soul)</l>
+               <l>As any Prince that ever Rul'd the State.</l>
+               <l>Great as he is, yet does he not preſume</l>
+               <l>To rule the Conſcience, force the mind,</l>
+               <l>That heavenly Spark that's ever unconfin'd.</l>
+               <l>This is a power ſupream, which God alone</l>
+               <l>Reſerves to his Almighty Throne.</l>
+               <l>
+                  <pb n="5" facs="tcp:96367:6"/>
+Not God himſelf does forcibly compel,</l>
+               <l>Nor with ſtrong violence reduce the will,</l>
+               <l>But with his gentle Spirit does influence</l>
+               <l>And ſoftly glide into our yielding ſenſe:</l>
+               <l>Does not (as once of old) deſcend</l>
+               <l>In Fire and ruſtling Winds, to gain his end;</l>
+               <l>But like a gentle Dove does always come,</l>
+               <l>A welcome Gheſt, perſwading Friend,</l>
+               <l>And in our Body's Temple finds a Room.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Go bid the Poles, my Muſe, together meet,</l>
+               <l>Bid Eaſt and Weſt each other greet,</l>
+               <l>Command the Stars from their fixt Orbs to fly,</l>
+               <l>Bid the dull Earth aſcend and kiſs the Sky;</l>
+               <l>As ſoon you may the Courſe of Nature change</l>
+               <l>As force the mind from ſteady Faith to range;</l>
+               <l>Force may provoke a tim'rous Soul to ſin:</l>
+               <l>Preſt, ſhe may own that black is white,</l>
+               <l>And play the juggling Hypocrite:</l>
+               <l>But (prithee) waſh the <hi>Aethiop's</hi> Skin,</l>
+               <l>Rather than ſtrive a free aſſent to gain</l>
+               <l>By dint of Cudgel-Arguments, and Syllogiſms of pain.</l>
+               <l>That Church that labours to compell the Will,</l>
+               <l>Our Breaſts with ſudden Jealouſies does fill,</l>
+               <l>That 'tis a deſperate and tottering Cauſe,</l>
+               <l>Whoſe Baſis is not Reaſon, but the Penal Laws.</l>
+               <l>The man that labours to perſwade,</l>
+               <l>Does not the Body with rough force invade,</l>
+               <l>
+                  <pb n="6" facs="tcp:96367:7"/>
+But in ſoft Rhetorick does wind</l>
+               <l>Himſelf into the Mind.</l>
+               <l>Since Faith is free, the <hi>Turk</hi> as well may hope</l>
+               <l>By his falſe Reaſons to convert the <hi>Pope,</hi>
+               </l>
+               <l>As our miſtaken Land expect to ſee</l>
+               <l>An univerſal Unity</l>
+               <l>Eſtabliſh'd by the breach of Peace and Charity.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>When firſt our Mighty Prince began to ſway</l>
+               <l>The <hi>Britiſh</hi> Scepter, and diſpence</l>
+               <l>O're all his Realm a warm and gentle Influence,</l>
+               <l>Thus to the <hi>Engliſh</hi> Church was heard to ſay:</l>
+               <l>Pardon, moſt Loyal Maid (for thou art ſhe</l>
+               <l>Didſt always pray and fight for Monarchy,</l>
+               <l>Stood'ſt firm when 'twas a Crime to own</l>
+               <l>Any branch o'th' <hi>Engliſh</hi> Throne)</l>
+               <l>Pardon (for 'tis no Life to live in pain)</l>
+               <l>If I free Liberty do give,</l>
+               <l>That all Religions may live;</l>
+               <l>Let others live, and thou alone ſhalt Reign:</l>
+               <l>Since Heaven doth cauſe his rain to fall,</l>
+               <l>And Sun to ſhine alike on all,</l>
+               <l>And does to me this God-like favour ſhow</l>
+               <l>To be his Repreſentative below,</l>
+               <l>Why ſhou'd you thus unjuſtly ſtrive</l>
+               <l>To intercept alone this influence of mine?</l>
+               <l>Wou'd it not juſtly (think you?) move</l>
+               <l>My Anger, and convert your Love</l>
+               <l>
+                  <pb n="7" facs="tcp:96367:7"/>
+Into the higheſt flames of rage,</l>
+               <l>If in this looſe unquiet Age</l>
+               <l>Any ſhou'd vouch himſelf to be</l>
+               <l>The rightful Monarch to this Realm but me?</l>
+               <l>And can you think that Heaven won't</l>
+               <l>Reſent the unparal'd affront,</l>
+               <l>Shou'd he me like an Adverſary find,</l>
+               <l>Dethroning his Vicegerent of the Mind?</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Illuſtrious Prince! what wonders haſt thou done</l>
+               <l>By this one ſingle <hi>Act</hi> alone?</l>
+               <l>What various Natures doſt thou joyn?</l>
+               <l>How ſweetly do they all combine?</l>
+               <l>How many different Stars in different luſtres ſhine,</l>
+               <l>Adorning this bright Sphere of thine?</l>
+               <l>As various Inſtruments do all conſpire,</l>
+               <l>Grave <hi>Organs</hi> with the warbling <hi>Lute,</hi>
+               </l>
+               <l>
+                  <hi>Viols</hi> with <hi>Cornets,</hi> and the <hi>Flute,</hi>
+               </l>
+               <l>To joyn in one harmonious Quire:</l>
+               <l>So we at length, Great <hi>James,</hi> compos'd by thee,</l>
+               <l>Like different Notes agree</l>
+               <l>To make up one melodious Harmony.</l>
+               <l>Thus when the great Dictatour had in vain</l>
+               <l>Aſſay'd to cultivate a ſtubborn Land,</l>
+               <l>And much expence of time and blood had ſpent,</l>
+               <l>And many dangers underwent,</l>
+               <l>To make the reſtleſs people underſtand</l>
+               <l>The mighty bleſſings which they might obtain</l>
+               <l>Beneath the ſhadow of his pow'rful Reign:</l>
+               <l>
+                  <pb n="8" facs="tcp:96367:8"/>
+At length the kind <hi>Auguſtus</hi> came,</l>
+               <l>And gently diſſipates the flame:</l>
+               <l>With a ſoft touch compos'd affairs of State,</l>
+               <l>Diſſolv'd the curs'd <hi>Triumvirate;</hi>
+               </l>
+               <l>Wild <hi>Anthony</hi>'s rebellious pow'rs o'recome,</l>
+               <l>And fixt a laſting peace in <hi>Rome;</hi>
+               </l>
+               <l>To a ſweet calm reduc'd the quiet Earth,</l>
+               <l>Fit for the Prince of Peace his glorious birth.</l>
+               <l>If there be any that repine</l>
+               <l>At this exceſſive Grant of thine,</l>
+               <l>Let them before thy <hi>Juſtice</hi> fall,</l>
+               <l>And grace thy Triumphs with their Funeral.</l>
+               <l>Thy goodneſs is almoſt too great for to be prais'd,</l>
+               <l>Thy glory on magnifick Pillars rais'd</l>
+               <l>On its own Center firmly ſtands,</l>
+               <l>And needs not the <hi>Aſſiſtance</hi> of our hands:</l>
+               <l>Enlightned with its own increaſing rays,</l>
+               <l>Conſpicuouſly around it ſelf diſplays:</l>
+               <l>The gawdy <hi>luſtre</hi> does amaze,</l>
+               <l>And with an overwhelming light</l>
+               <l>Exhauſts and drowns the beams of our unable ſight.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96367:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
